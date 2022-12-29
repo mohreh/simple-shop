@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "picture": "/img/Arcade-cabinets-6.jpg",
+    "name": "کیکپ Arcade cabinets بسته ۶ عددی",
+    "price": "10",
+    "quantity": "6"
+  },
+  {
+    "id": 2,
+    "picture": "/img/Arcade-cabinets-4.jpg",
+    "name": "کیکپ Arcade cabinets بسته ۴ عددی",
+    "price": "10",
+    "quantity": "5"
+  },
+  {
+    "id": 3,
+    "picture": "/img/Arcade-cabinets-1.jpg",
+    "name": "کیکپ Arcade cabinets بسته ۱ عددی",
+    "price": "10",
+    "quantity": "2"
+  },
+  {
+    "id": 4,
+    "picture": "/img/coral-oases.jpg",
+    "name": "کیکپ coral oases",
+    "price": "10",
+    "quantity": "3"
+  },
+  {
+    "id": 5,
+    "picture": "/img/dragon-eden.webp",
+    "name": "کیکپ Dragon eden",
+    "price": "10",
+    "quantity": "2"
+  },
+  {
+    "id": 6,
+    "picture": "/img/dream-walkers.jpg",
+    "name": "کیکپ Dream walkers",
+    "price": "10",
+    "quantity": "6"
+  },
+  {
+    "id": 7,
+    "picture": "/img/Frozen-Realms-3.jpg",
+    "name": "کیکپ Frozen realms بسته ۳ عددی",
+    "price": "10",
+    "quantity": "1"
+  },
+  {
+    "id": 8,
+    "picture": "/img/Frozen-Realms-5.jpg",
+    "name": "کیکپ Frozen realms بسته 5 عددی",
+    "price": "10",
+    "quantity": "2"
+  },
+  {
+    "id": 9,
+    "picture": "/img/Jelly.jpg",
+    "name": "کیکپ Jelly",
+    "price": "10",
+    "quantity": "2"
+  },
+  {
+    "id": 10,
+    "picture": "/img/Night-Hunter.jpg",
+    "name": "کیکپ Night hunter",
+    "price": "10",
+    "quantity": "1"
+  },
+  {
+    "id": 11,
+    "picture": "/img/disco-hustle.jpg",
+    "name": "کیکپ Disco hustle",
+    "price": "10",
+    "quantity": "6"
+  },
+  {
+    "id": 12,
+    "picture": "/img/Chinese-Fish.jpg",
+    "name": "کیکپ Chinese fish",
+    "price": "10",
+    "quantity": "6"
+  }
+]
