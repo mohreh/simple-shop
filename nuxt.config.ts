@@ -4,7 +4,7 @@ export default defineNuxtConfig({
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
   },
   css: [],
-  modules: ["@nuxtjs/tailwindcss"],
+  modules: ["@pinia/nuxt", "@nuxtjs/tailwindcss"],
   buildModules: [],
   build: {
     transpile: [
@@ -18,5 +18,10 @@ export default defineNuxtConfig({
     config: {},
     injectPosition: 0,
     viewer: true,
+  },
+  vite: {
+    optimizeDeps: {
+      include: ["vue"],
+    },
   },
 });

@@ -17,9 +17,10 @@ module.exports = {
   },
   plugins: ["vue", "@typescript-eslint"],
   rules: {
+    "@typescript-eslint/no-unused-vars": "off",
     "no-unused-expressions": "off",
     "vue/no-v-html": "off",
-    "no-console": ["error", { allow: ["warn", "error"] }],
+    "no-console": "off",
     "no-unused-vars": "off",
     "vue/no-unused-vars": "off",
     "vue/multi-word-component-names": [

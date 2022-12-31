@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  @apply overflow-y-hidden text-slate-800 bg-gradient-to-br from-indigo-100 via-purple-100 to-pink-100 text-slate-700;
+  @apply overflow-y-hidden text-slate-800 bg-slate-50;
   direction: rtl;
   height: -webkit-fill-available;
   min-height: -webkit-fill-available;
@@ -23,5 +23,15 @@ body {
     BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans",
     sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
     "Noto Color Emoji";
+}
+
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
 }
 </style>
